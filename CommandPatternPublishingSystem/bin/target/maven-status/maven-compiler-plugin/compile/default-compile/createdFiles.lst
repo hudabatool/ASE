@@ -1,0 +1,16 @@
+models\Story.class
+main\CommandPatternPublishingSystem.class
+publisher\Publisher.class
+models\Contributor.class
+system\IContentManager.class
+models\Photograph.class
+system\IPaymentProcessor.class
+invoker\Invoker.class
+accounts\AccountsDepartment.class
+commands\Command.class
+editor\Editor.class
+models\Issue.class
+commands\ApproveStoryCommand.class
+system\IAdvertisementManager.class
+models\Advertisement.class
+commands\CompileIssueCommand.class
