@@ -1,0 +1,12 @@
+models\Photograph.class
+system\IPaymentProcessor.class
+models\Story.class
+accounts\AccountsDepartment.class
+editor\Editor.class
+models\Issue.class
+system\IAdvertisementManager.class
+models\Advertisement.class
+publisher\Publisher.class
+main\MagazinePublishingSystem.class
+models\Contributor.class
+system\IContentManager.class
